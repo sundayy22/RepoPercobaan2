@@ -1,3 +1,4 @@
 Mata kuliah yang diambil pada semester 6 ini :
   1. Praktik sistem mikroprosessor
   2. Praktik Fisika Elektro
+  3. Manajemen Industri
